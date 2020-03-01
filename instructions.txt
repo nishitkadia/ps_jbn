@@ -1,0 +1,10 @@
+cd ~ (go to home directory)
+mkdir github_repos (creat a new folder names github_repos)
+cd github_repos (go to that github_repos)
+git clone
+
+ls -la
+git status
+
+nano (create file with any extension)
+5 

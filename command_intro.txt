@@ -1,0 +1,20 @@
+mkdir 
+
+ls
+
+ls -la
+cd
+cd ..(go back to previous folder)
+pwd
+clear
+cd ~(go to home directory)
+
+cat <filename>
+
+git status (shows the status of your git repo)
+git add . (adds all the changes. unstaged changes --> staged changes)
+
+git commit -m "<commit_message>"
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
